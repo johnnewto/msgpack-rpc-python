@@ -19,7 +19,7 @@ Install msgpack-rpc-python with integrated tornado from the local directory in w
 
 ```sh
 pip uninstall msgpack-rpc-python
-pip install https://github.com/johnnewto/msgpack-rpc-python.git@with_tornado_453
+pip install git+https://github.com/johnnewto/msgpack-rpc-python.git@with_tornado_453
 ```
 
 or
